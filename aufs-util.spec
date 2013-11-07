@@ -55,5 +55,5 @@ rm -rf %{buildroot}
 
 
 %changelog
-* Mon Sep 09 2013 Ben Sanchez <ben@zope.com> - 3.2-1
+* Mon Nov 07 2013 Ben Sanchez - 3.2-1
 - initial rpm
