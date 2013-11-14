@@ -1,5 +1,7 @@
 #!/bin/bash -vex
 
+# in order to make this rpm, it needs to be ran 
+# on a machine with a patched kernel with aufs
 printf "build aufs3-standalone\n"
 rm -rf aufs3-standalone
 git clone git://git.code.sf.net/p/aufs/aufs3-standalone
